@@ -1,5 +1,4 @@
-# Ex 4. Execution of Network Commands
-
+# Ex. 4 — Execution of Network Commands
 # Name: Sanjeev Kumar
 # Reg.No: 212224040290
 
@@ -10,9 +9,9 @@ Use of Network commands in Real Time environment
 Command Prompt And Network Protocol Analyzer
 
 ## Procedure: 
-To do this EXPERIMENT- follows these steps:
-## Networking Commands Experiment
+To do this experiment, follow these steps:
 
+## Networking Commands Experiment
 This experiment involves understanding basic networking commands and configuring network devices. Below are the key topics covered:
 
 ### Basic Networking Commands
